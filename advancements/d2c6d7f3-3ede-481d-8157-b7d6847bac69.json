@@ -78,6 +78,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "rotten_flesh": "2018-03-25 22:23:08 -0400"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2018-03-25 22:04:45 -0400"
@@ -142,6 +148,12 @@
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2018-03-25 22:15:56 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2018-03-25 22:23:08 -0400"
     },
     "done": true
   },
@@ -214,6 +226,18 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_the_recipe": "2018-03-25 22:07:34 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_the_recipe": "2018-03-25 22:23:19 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2018-03-25 22:20:18 -0400"
     },
     "done": true
   },
