@@ -5,9 +5,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_brick_block": "2018-03-25 22:01:56 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/snow": {
     "criteria": {
       "has_snowball": "2018-03-25 21:54:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_log": "2018-03-25 22:02:21 -0400"
     },
     "done": true
   },
@@ -29,5 +41,17 @@
       "mushroom_island": "2018-03-25 21:51:59 -0400"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_brick_block": "2018-03-25 22:01:56 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2018-03-25 22:01:54 -0400"
+    },
+    "done": true
   }
 }
