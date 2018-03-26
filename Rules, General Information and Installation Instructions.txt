@@ -1,0 +1,47 @@
+Untold Stories #04
+
+Corona Trials 1.2.2
+
+by RenderXR (If you want to stay updated on future projects of mine, you should follow me on twitter.com/renderXR)
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+I've frequently gotten requests for an easier map, so here we go! This map is based around fire with, a difficulty that builds up.
+It starts off at a manageable level suitable for newcomers to the CTM (Complete The Monument) genre, but will get quite tricky over time.
+The map is linear-branching, so areas are connected using intersections, however, most areas will have another area leading out of it, so
+be sure to explore each area fully!
+
+(also, the wool colours of the monument have some sense of order now, so if you miss a piece, you can look around where you found a similar colour)
+
+I hope you enjoy!
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+MAP INFORMATION:
+
+Recommended MC version:   1.12
+Difficulty:               2/5 --> 3/5 (from Easy into Normal)
+Length:                   3/5 (Medium)
+Map Style:                Linear-Branching
+Amount of Monument goals: 16 Wool + 6 Material Blocks (+ 27 Bonus Emeralds)
+
+---------------------------------------------------------------------------------------------------------------------------------
+RULES:
+
+1. Survive in any way you can think of. (break blocks, craft, etc.)
+2. Find and complete the Monument by placing special enchanted wool blocks.
+3. Never use peaceful difficulty. I recommend normal.
+4. Don't leave the boundaries of the map. (no skipping areas via the bedrock top.)
+5. Don't craft or move ender chests.
+6. Don't purify villagers.
+7. You are allowed to craft the material blocks for the monument.
+8. Bonus Goal: Collect all 27 (hidden) special numbered Emeralds.
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+INSTALLATION GUIDE:
+
+Copy the "Untold Stories 4 - Corona Trials 1.2.2" folder in your saves folder (C:\Users\(User)\AppData\Roaming\.minecraft\saves) (The (User) is different for every person. for me it's renderXR.)
+You can find this with the run command and type: %appdata%\.minecraft\saves
+
+---------------------------------------------------------------------------------------------------------------------------------
