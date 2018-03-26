@@ -1,0 +1,33 @@
+{
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2018-03-25 21:53:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2018-03-25 21:54:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2018-03-25 21:54:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2018-03-25 21:54:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "ice_flats": "2018-03-25 21:53:03 -0400",
+      "mushroom_island": "2018-03-25 21:51:59 -0400"
+    },
+    "done": false
+  }
+}
