@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2018-03-31 02:10:13 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2018-03-31 01:04:34 -0400"
@@ -86,6 +92,12 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2018-03-31 01:04:34 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stonebrick": {
+    "criteria": {
+      "has_mossy_cobblestone": "2018-03-31 02:05:27 -0400"
     },
     "done": true
   },
@@ -313,6 +325,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2018-03-31 02:05:27 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2018-03-25 22:24:30 -0400"
@@ -467,6 +485,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2018-03-31 02:10:13 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2018-03-25 22:06:51 -0400"
@@ -542,6 +566,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "stray": "2018-03-30 22:55:15 -0400",
+      "skeleton": "2018-03-31 02:04:25 -0400",
       "zombie": "2018-03-25 22:03:39 -0400",
       "spider": "2018-03-25 22:26:11 -0400",
       "creeper": "2018-03-25 22:07:13 -0400",
@@ -576,6 +601,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2018-03-25 22:06:51 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2018-03-31 02:10:13 -0400"
     },
     "done": true
   },
