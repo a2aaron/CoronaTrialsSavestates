@@ -554,6 +554,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2018-04-07 18:26:32 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2018-03-25 22:04:03 -0400"
@@ -638,6 +644,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2018-04-07 18:26:32 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2018-03-31 01:04:34 -0400"
@@ -667,6 +679,7 @@
       "stray": "2018-03-30 22:55:15 -0400",
       "zombie_villager": "2018-03-31 19:18:15 -0400",
       "skeleton": "2018-03-31 02:04:25 -0400",
+      "blaze": "2018-04-07 18:27:55 -0400",
       "zombie": "2018-03-25 22:03:39 -0400",
       "witch": "2018-03-31 19:07:25 -0400",
       "spider": "2018-03-25 22:26:11 -0400",
@@ -678,6 +691,12 @@
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2018-03-31 18:56:49 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2018-04-07 18:28:08 -0400"
     },
     "done": true
   },
@@ -1071,9 +1090,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2018-04-07 18:26:32 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_the_recipe": "2018-03-25 22:07:34 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/noteblock": {
+    "criteria": {
+      "has_redstone": "2018-04-07 18:26:32 -0400"
     },
     "done": true
   },
@@ -1101,6 +1132,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2018-04-07 18:26:32 -0400"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "zombie": "2018-03-25 22:03:39 -0400"
@@ -1116,6 +1153,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2018-03-31 19:10:41 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2018-04-07 18:28:08 -0400"
     },
     "done": true
   },
@@ -1279,6 +1322,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2018-04-07 18:26:32 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/melon_block": {
     "criteria": {
       "has_melon": "2018-03-31 19:27:07 -0400"
@@ -1330,6 +1379,12 @@
   "minecraft:recipes/decorations/blue_banner": {
     "criteria": {
       "has_blue_wool": "2018-03-31 18:57:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2018-04-07 18:28:08 -0400"
     },
     "done": true
   },
