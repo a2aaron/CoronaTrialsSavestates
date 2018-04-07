@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pillar_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2018-04-07 00:07:06 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2018-03-31 19:10:36 -0400"
@@ -530,6 +536,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2018-04-07 00:07:06 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2018-03-31 02:01:07 -0400"
@@ -789,6 +801,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2018-04-07 00:07:06 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_bed": {
     "criteria": {
       "has_pink_wool": "2018-03-25 22:28:08 -0400"
@@ -930,6 +948,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2018-03-31 19:10:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2018-04-07 00:07:06 -0400"
     },
     "done": true
   },
